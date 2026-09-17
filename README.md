@@ -3,6 +3,8 @@
   and saving this content as README.md in that repository.
 -->
 
+<img src="https://raw.githubusercontent.com/anil826/anil826.github.io/main/profile.jpg" alt="Portrait of Anil Yadav" width="160" height="160" />
+
 # Hi, I'm Anil Yadav
 
 ### Senior Salesforce Developer | Platform Developer II | Apex · LWC · Integrations · Agentforce
